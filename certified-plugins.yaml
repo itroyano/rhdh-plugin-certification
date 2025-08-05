@@ -13,7 +13,7 @@ certified:
     rhdh_version: null
   - name: apic-backstage
     authors: apiconnect
-    owners: dcurran90
+    owners: johns-thomas
     image_loc: oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/apic-backstage
     plugin_version: next__1.0.0!apic-backstage
     rhdh_version: null
